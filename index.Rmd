@@ -34,7 +34,11 @@ The summer camp will provide experience in **formulating** and carrying out a ta
 
 * [Zoom Link :] [https://famu.zoom.us/j/93938577076] 
 
-* [REU Curriculum:] [https://famu-my.sharepoint.com/:w:/r/personal/carlos_theran_famu_edu/_layouts/15/Doc.aspx?sourcedoc=%7BC23FEF71-EE5D-4555-A7D1-A3CFD71A400F%7D&file=REU-Curriculum%200.5F2F%20and%200.5Video.docx&action=default&mobileredirect=true&DefaultItemOpen=1&ct=1622039430911&wdOrigin=OFFICECOM-WEB.MAIN.OTHER&cid=5e9ed806-dd49-4e9f-856c-dd05d6040086]
+A [linked phrase][id]. 
+
+At the bottom of the document:
+
+[id]: https://docs.google.com/document/d/1pKnxgT-I53L-daMiqlc8dEvLtq6BYXPCFJsygUt1arg/edit?usp=sharing/ "Title"
 
 ### Week 2: Data Science tools (Jun14-Jun18)
 
