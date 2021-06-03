@@ -1,7 +1,7 @@
 ---
-title: "REU-Introduction"
+title: "Research Experience for Undergraduates (REU) Repository"
 author: "Yohn Jairo Parra Bautista, PhD. and Carlos Theran, PhD"
-date: "5/26/2021"
+date: "6/03/2021"
 output: html_document
 ---
 
