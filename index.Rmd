@@ -15,6 +15,9 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ### Models and Methods for Image and Text data with ML.
 
+[Slides Orientation][idi] 
+
+[idi]: https://docs.google.com/presentation/d/1RbkHhJmtmc-fRlot-eXhALcax8SedULiu6fbi8WZciY/edit#slide=id.gdd3952dc05_0_652/ "Title"
 
 Why will it be interesting to have you enroll in this summer camp? Would you like to increase your knowledge and creativity using science, technology, mathematics, and you want to know the models used by the most prominent companies to track your interests. In this Hands-On Research for Undergraduates program, we will deliver the main concepts that combine statistical and computational theory to create and train AI (Machine Learning) models for classification and prediction problems in the field of image and Behavior analysis. Hands-On Research will take place on ------------- (8 weeks).    
 
