@@ -17,7 +17,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 [Slides Orientation][idi] 
 
-[idi]: https://docs.google.com/presentation/d/1RbkHhJmtmc-fRlot-eXhALcax8SedULiu6fbi8WZciY/edit#slide=id.gdd3952dc05_0_652/ "Title"
+[idi]: https://docs.google.com/presentation/d/1RbkHhJmtmc-fRlot-eXhALcax8SedULiu6fbi8WZciY/edit?usp=sharing/ "Title"
 
 Why will it be interesting to have you enroll in this summer camp? Would you like to increase your knowledge and creativity using science, technology, mathematics, and you want to know the models used by the most prominent companies to track your interests. In this Hands-On Research for Undergraduates program, we will deliver the main concepts that combine statistical and computational theory to create and train AI (Machine Learning) models for classification and prediction problems in the field of image and Behavior analysis. Hands-On Research will take place on ------------- (8 weeks).    
 
@@ -33,7 +33,7 @@ The summer camp will provide experience in **formulating** and carrying out a ta
 
 * Students will design and create a research paper using data science methodology. 
 
-### Week 1: Intro to Python and R (Jun7-Jun11)
+### Week 1: Intro to Python and R with GitHub (Jun7-Jun11)
 
 * [Zoom Link :] [https://famu.zoom.us/j/93938577076] 
 
