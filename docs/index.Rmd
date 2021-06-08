@@ -1,0 +1,91 @@
+---
+title: "Research Experience for Undergraduates (REU) Repository"
+author: "Yohn Jairo Parra Bautista, PhD. and Carlos Theran, PhD"
+date: "6/03/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+![ ](Famulogo.png)
+
+## Hands-On Research:  Data Science and Machine Learning Applications for Images and Behavior Analysis
+
+### Models and Methods for Image and Text data with ML.
+
+[Slides Orientation][idi] 
+
+[idi]: https://docs.google.com/presentation/d/1RbkHhJmtmc-fRlot-eXhALcax8SedULiu6fbi8WZciY/edit?usp=sharing/ "Title"
+
+Why will it be interesting to have you enroll in this summer camp? Would you like to increase your knowledge and creativity using science, technology, mathematics, and you want to know the models used by the most prominent companies to track your interests. In this Hands-On Research for Undergraduates program, we will deliver the main concepts that combine statistical and computational theory to create and train AI (Machine Learning) models for classification and prediction problems in the field of image and Behavior analysis. Hands-On Research will take place on ------------- (8 weeks).    
+
+The summer camp will provide experience in **formulating** and carrying out a tangible **data science analysis** with real-world data. The capstone will be a **group/team project (3/5 students)** and each project will focus in open, pre-existing secondary data.  
+
+### Learning Objectives
+
+* Students will be computing with data using popular language like *Python and R*.  
+
+* One of the outcomes of the summer project will be to develop a **data science methodology workflow** and make them available for use in **future projects**. 
+
+* The student will learn how to analyze and interpret geospatial images to classify the diverse types of vegetation presented in the image.
+
+* Students will design and create a research paper using data science methodology. 
+
+### Week 1: Intro to Python and R with GitHub (Jun7-Jun11)
+
+* [Zoom Link :] [https://famu.zoom.us/j/93938577076] 
+
+[curriuclum][id] 
+
+[id]: https://docs.google.com/document/d/1pKnxgT-I53L-daMiqlc8dEvLtq6BYXPCFJsygUt1arg/edit?usp=sharing/ "Title"
+
+[Lecture recorded June 7-morning][ide] 
+
+[ide]: https://famu.zoom.us/rec/share/oYXap04f9q02XSzl03Vh6YwxyF_hBpoQk-OGwMt6NFVu2F_AXqtlo0UPzJaEmK3f.Jdp9Jyk7Gy0SDZLug/ "Title"
+
+[Lecture recorded June 7-evening][idh] 
+
+[idh]: https://famu.zoom.us/rec/share/4lYOuAwxWluoDNxgTe_VpVQjwag6cfMou4yPw-jx76xU8fx8rL4j123bd2wDWcKF.KCLKNISR5nt3bHOM/ "Title"
+
+[Lecture recorded June 8-morning][idb] 
+
+[idb]: https://famu.zoom.us/rec/share/qROQUIgbnrfCJEz4swjlYVKgIb6_WZDzxAeWIv39p1Zs6XMBL4ZJWyji8ovkTkZ7.RPcAUaOZvI-1yidv/ "Title"
+
+[Slides Python with Visual Studio][idj] 
+
+[idj]: https://docs.google.com/presentation/d/12SQymWCm_62n__ObVMq3LwDE3aUQi1urIlL9ihk6FTI/edit?usp=sharing/ "Title"
+
+
+### Week 2: Data Science tools (Jun14-Jun18)
+
+* [Zoom Link :] [https://famu.zoom.us/j/93938577076] 
+
+### Week 3: Intro to Statistics and Probability (Jun21-Jun25)
+
+* [Zoom Link :] [https://famu.zoom.us/j/93938577076] 
+
+### Week 4: Data Science for Research (tools for manage and share research papers) (Jun28-Jul2) 
+
+* [Zoom Link :] [https://famu.zoom.us/j/93938577076] 
+
+### Week 5: Intro to Machine Learning with Python (Jul5-Jul9) 
+
+* [Zoom Link :] [https://famu.zoom.us/j/93938577076] 
+
+### Week 6: Final Research Projects I (Jul12-Jul16)
+
+* [Zoom Link :] [https://famu.zoom.us/j/93938577076] 
+
+### Week 7: Final Research Projects II (Jul19-Jul23) 
+
+* [Zoom Link :] [https://famu.zoom.us/j/93938577076] 
+
+### Week 8: Research Presentation and Awards (Jul26-Jul30) 
+
+* [Zoom Link :] [https://famu.zoom.us/j/93938577076]  
+
+
+ 
+
