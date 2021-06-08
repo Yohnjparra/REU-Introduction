@@ -49,6 +49,10 @@ The summer camp will provide experience in **formulating** and carrying out a ta
 
 [idh]: https://famu.zoom.us/rec/share/4lYOuAwxWluoDNxgTe_VpVQjwag6cfMou4yPw-jx76xU8fx8rL4j123bd2wDWcKF.KCLKNISR5nt3bHOM/ "Title"
 
+[Lecture recorded June 8-morning][idb] 
+
+[idb]: https://famu.zoom.us/rec/share/qROQUIgbnrfCJEz4swjlYVKgIb6_WZDzxAeWIv39p1Zs6XMBL4ZJWyji8ovkTkZ7.RPcAUaOZvI-1yidv/ "Title"
+
 [Slides Python with Visual Studio][idj] 
 
 [idj]: https://docs.google.com/presentation/d/12SQymWCm_62n__ObVMq3LwDE3aUQi1urIlL9ihk6FTI/edit?usp=sharing/ "Title"
