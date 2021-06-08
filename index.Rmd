@@ -57,6 +57,9 @@ The summer camp will provide experience in **formulating** and carrying out a ta
 
 [idj]: https://docs.google.com/presentation/d/12SQymWCm_62n__ObVMq3LwDE3aUQi1urIlL9ihk6FTI/edit?usp=sharing/ "Title"
 
+[Slides R with Git and GitHub][idl] 
+
+[idl]: https://docs.google.com/presentation/d/12SQymWCm_62n__ObVMq3LwDE3aUQi1urIlL9ihk6FTI/edit?usp=sharing/ "Title"
 
 ### Week 2: Data Science tools (Jun14-Jun18)
 
