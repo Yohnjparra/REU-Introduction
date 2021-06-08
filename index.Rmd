@@ -39,28 +39,6 @@ The summer camp will provide experience in **formulating** and carrying out a ta
 
 [curriuclum][id] 
 
-[id]: https://docs.google.com/document/d/1pKnxgT-I53L-daMiqlc8dEvLtq6BYXPCFJsygUt1arg/edit?usp=sharing/ "Title"
-
-[Lecture recorded June 7-morning][ide] 
-
-[ide]: https://famu.zoom.us/rec/share/oYXap04f9q02XSzl03Vh6YwxyF_hBpoQk-OGwMt6NFVu2F_AXqtlo0UPzJaEmK3f.Jdp9Jyk7Gy0SDZLug/ "Title"
-
-[Lecture recorded June 7-evening][idh] 
-
-[idh]: https://famu.zoom.us/rec/share/4lYOuAwxWluoDNxgTe_VpVQjwag6cfMou4yPw-jx76xU8fx8rL4j123bd2wDWcKF.KCLKNISR5nt3bHOM/ "Title"
-
-[Lecture recorded June 8-morning][idb] 
-
-[idb]: https://famu.zoom.us/rec/share/qROQUIgbnrfCJEz4swjlYVKgIb6_WZDzxAeWIv39p1Zs6XMBL4ZJWyji8ovkTkZ7.RPcAUaOZvI-1yidv/ "Title"
-
-[Slides Python with Visual Studio][idj] 
-
-[idj]: https://docs.google.com/presentation/d/12SQymWCm_62n__ObVMq3LwDE3aUQi1urIlL9ihk6FTI/edit?usp=sharing/ "Title"
-
-[Slides R with Git and GitHub][idl] 
-
-[idl]: https://docs.google.com/presentation/d/12SQymWCm_62n__ObVMq3LwDE3aUQi1urIlL9ihk6FTI/edit?usp=sharing/ "Title"
-
 ### Week 2: Data Science tools (Jun14-Jun18)
 
 * [Zoom Link :] [https://famu.zoom.us/j/93938577076] 
